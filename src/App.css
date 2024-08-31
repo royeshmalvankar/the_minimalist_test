@@ -1,0 +1,64 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.logo{
+/* Group */
+
+position: absolute;
+left: -0.01%;
+right: -0.01%;
+top: 0%;
+bottom: -0.01%;
+width: 116.02px;
+height: 47.23px;
+padding-top: 12px;
+padding-left: 120px;
+gap: 0px;
+opacity: 0px;
+
+}
+.topbar{
+  width: 1440px;
+  height: 72px;
+  padding: 12px 1204px 12.77px 120px;
+  gap: 0px;
+  border: 0px 0px 1px 0px;
+  opacity: 0px;
+  background: #1C1C1C33;
+  border-bottom: 1px solid #FF777766;
+}
+.frame6{
+  width: 1440px;
+  height: 527px;
+  top: -8px;
+  left: -26px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+.rectangle1{
+  background-image:url("assets/pedha.png");
+  width: 1440px;
+  height: 564px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.rectangle2{
+  width: 1440px;
+  height: 527px;
+  gap: 0px;
+  opacity: 0px;
+  background: linear-gradient(90deg, #D3501C 8.67%, rgba(211, 80, 28, 0.35) 43.99%, rgba(211, 80, 28, 0) 71.44%);
+}
+.background{
+  width: 1586px;
+  height: 1586px;
+  left: -43px;
+  gap: 0px;
+  opacity: 0px;
+
+}
